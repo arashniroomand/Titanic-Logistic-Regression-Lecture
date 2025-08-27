@@ -1,38 +1,25 @@
 <img src="img/titanic.jpg" alt="Boston Housing" width="800" height="400">
 
 
-# Logistic Regression on the Titanic Dataset
+# Titanic Logistic Regression Lecture
 
-This repository contains a **lecture-style Jupyter Notebook** that walks through a complete machine learning workflow using **logistic regression** on the classic Titanic dataset.  
-It is designed for teaching purposes, with explanations and code that illustrate the reasoning behind each step.
+This repository is designed as a **teaching project** for beginners in machine learning. When I started learning, I often searched for practical, step-by-step projects that explained not only the code but also the reasoning behind each step. This notebook is written with that purpose in mind.
 
----
+## What you will learn
 
-## Concepts Covered
+1. **Data exploration:** How to look at raw data and ask the right questions.  
+2. **Feature selection:** Which features to keep, which to drop, and why this matters.  
+3. **Data preprocessing:** Handling categorical values, missing data, and preparing features.  
+4. **Logistic regression basics:** Understanding how the model works and applying it to a real dataset.  
+5. **Model evaluation:** Checking accuracy and interpreting results.  
 
-- **Problem framing and dataset overview**  
-  Understanding the task of survival prediction.
+## Why Titanic dataset?
 
-- **Exploratory Data Analysis (EDA)**  
-  Inspecting data types, distributions, and missing values.
+The Titanic dataset is simple yet powerful for illustrating classification tasks. It allows us to focus on **how to think about the data** while practicing core ML techniques.
 
-- **Data cleaning and feature engineering**  
-  Handling missing data, encoding categorical features, and preparing inputs.
+## Audience
 
-- **Train/Test Split & Baseline Model**  
-  Building the foundation for fair evaluation.
-
-- **Feature Selection (RFE)**  
-  Identifying the most important predictors.
-
-- **Logistic Regression Model**  
-  Fitting, interpreting coefficients, and understanding probabilities.
-
-- **Model Evaluation**  
-  - Accuracy and classification report  
-  - Cross-validation  
-  - Confusion matrices  
-  - ROC curves and decision thresholds
+This repo is for **beginners** who want a clear, hands-on project rather than abstract theory. It is written in a teaching style, with explanations alongside the code.
 
 ---
 
